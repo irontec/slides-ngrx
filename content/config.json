@@ -1,0 +1,25 @@
+{
+  "title": "Introducción a NGRX",
+  "options": {
+    "controls": true,
+    "progress": true,
+    "history": true,
+    "center": true,
+    "slideNumber": false,
+    "touch": true,
+    "hideAddressBar": true,
+    "mouseWheel": true
+  },
+  "slides": [
+    {"path": "index.md", "attrs": {"class":"intro"}},
+    [
+      "01-flux/01.md",
+      "01-flux/02.md",
+      "01-flux/03.md",
+      "01-flux/04.md",
+      "01-flux/05.md",
+      "01-flux/06.md"
+    ],
+    "end.md"
+  ]
+}
