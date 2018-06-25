@@ -18,7 +18,18 @@
       "01-flux/03.md",
       "01-flux/04.md",
       "01-flux/05.md",
-      "01-flux/06.md"
+      "01-flux/06.md",
+      "01-flux/07.md",
+      "01-flux/08.md",
+      "01-flux/09.md",
+      {"path": "01-flux/10.md", "attrs": {"class":"white-bg"}}
+    ],
+    [
+      "02-ngrx/01.md",
+      "02-ngrx/02.md",
+      "02-ngrx/03.md",
+      "02-ngrx/04.md",
+      "02-ngrx/05.md"
     ],
     "end.md"
   ]
