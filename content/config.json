@@ -31,6 +31,31 @@
       "02-ngrx/04.md",
       "02-ngrx/05.md"
     ],
+    [
+      "03-actions/01.md",
+      "03-actions/02.md",
+      "03-actions/03.md"
+    ],
+    [
+      "04-reducers/01.md",
+      "04-reducers/02.md",
+      "04-reducers/03.md",
+      "04-reducers/04.md",
+      "04-reducers/05.md",
+      "04-reducers/06.md"
+    ],
+    [
+      "05-effects/01.md",
+      "05-effects/02.md",
+      "05-effects/03.md"
+    ],
+    [
+      "06-components/01.md",
+      "06-components/02.md",
+      "06-components/03.md",
+      "06-components/04.md",
+      "06-components/05.md"
+    ],
     "end.md"
   ]
 }
