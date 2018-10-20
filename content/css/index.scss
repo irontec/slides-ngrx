@@ -1,10 +1,7 @@
-img {
-  border: 0 !important;
-  background-color: transparent !important;
-}
+@import '~irontec-reveal.js-theme/dist/theme.css';
 
-.white-bg {
-  img {
-    background-color: #ffffff !important;
-  }
+.intro {
+    img {
+        border: 0 !important;
+    }
 }
