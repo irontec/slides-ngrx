@@ -200,7 +200,15 @@ module.exports = {
       {
         test: /\.(mp4|ogg|svg)(\?.*)?$/,
         use: ["file-loader"]
-      }
+      },
+      ...(baseConfig.plugins.serviceWorker?
+        [
+          new GenerateSW({
+            clientsClaim: true,
+            skipWaiting: true
+          })
+        ] : []
+      )
     ]
   },
   optimization: {
