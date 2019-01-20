@@ -61,7 +61,9 @@ module.exports = {
       minify: {
         collapseWhitespace: true
       },
-      title: baseConfig.title
+      title: baseConfig.title || '',
+      og_url: baseConfig.og_url || '',
+      og_image: baseConfig.og_image || ''
     }),
     ...(baseConfig.plugins.notes ?
       [

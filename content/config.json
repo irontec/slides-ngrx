@@ -1,5 +1,7 @@
 {
-  "title": "Introducción a NGRX",
+  "title": "Introducción a ngrx",
+  "og_url": "https://irontec.github.io/slides-ngrx/",
+  "og_image": "https://irontec.github.io/slides-ngrx/media/images/logo.png",
   "options": {
     "controls": true,
     "progress": true,
@@ -15,7 +17,8 @@
     "zoom":   true,
     "menu":   true,
     "notes":  true,
-    "highlightjs": true
+    "highlightjs": true,
+    "ga": "UA-130231733-6"
   },
   "serviceWorker": true,
   "slides": [
